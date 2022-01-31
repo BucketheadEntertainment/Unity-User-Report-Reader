@@ -14,7 +14,7 @@ namespace Unity_User_Report_Reader
 
         public MainForm() => InitializeComponent();
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void MainForm_Load(object sender, EventArgs e)
         {
             if (currentUserReport == null)
                 openJSONFileDialog.ShowDialog();
