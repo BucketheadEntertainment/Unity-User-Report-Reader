@@ -1,6 +1,6 @@
-﻿using Unity_User_Reporting_Reader.Models.Report;
+﻿using Unity_User_Report_Reader.Models.Report;
 
-namespace Unity_User_Reporting_Reader.Models
+namespace Unity_User_Report_Reader.Models
 {
     public class UserReport
     {

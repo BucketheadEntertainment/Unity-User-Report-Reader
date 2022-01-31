@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Unity_User_Reporting_Reader.Models.Report
+namespace Unity_User_Report_Reader.Models.Report
 {
     public class ClientMetric
     {

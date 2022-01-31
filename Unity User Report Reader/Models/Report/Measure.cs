@@ -1,6 +1,6 @@
-﻿using Unity_User_Reporting_Reader.Models.Report.MetricInfo;
+﻿using Unity_User_Report_Reader.Models.Report.MetricInfo;
 
-namespace Unity_User_Reporting_Reader.Models.Report
+namespace Unity_User_Report_Reader.Models.Report
 {
     public class Measure
     {

@@ -1,4 +1,4 @@
-﻿namespace Unity_User_Reporting_Reader
+﻿namespace Unity_User_Report_Reader
 {
     partial class MainForm
     {
@@ -376,7 +376,7 @@
             this.Controls.Add(this.tabControl);
             this.Name = "MainForm";
             this.Text = "Unity User Reporting Reader";
-            this.Load += new System.EventHandler(this.MainForm_Load);
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.thumbnailPictureBox)).EndInit();
             this.tabControl.ResumeLayout(false);
             this.overviewTab.ResumeLayout(false);

@@ -1,4 +1,4 @@
-﻿namespace Unity_User_Reporting_Reader
+﻿namespace Unity_User_Report_Reader
 {
     internal static class Utilities
     {

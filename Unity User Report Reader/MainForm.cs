@@ -1,7 +1,7 @@
 using Newtonsoft.Json;
-using Unity_User_Reporting_Reader.Models;
+using Unity_User_Report_Reader.Models;
 
-namespace Unity_User_Reporting_Reader
+namespace Unity_User_Report_Reader
 {
     public partial class MainForm : Form
     {
@@ -14,7 +14,7 @@ namespace Unity_User_Reporting_Reader
 
         public MainForm() => InitializeComponent();
 
-        private void MainForm_Load(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
             if (currentUserReport == null)
                 openJSONFileDialog.ShowDialog();

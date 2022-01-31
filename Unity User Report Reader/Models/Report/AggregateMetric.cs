@@ -1,6 +1,6 @@
-﻿namespace Unity_User_Reporting_Reader.Models.Report.MetricInfo
+﻿namespace Unity_User_Report_Reader.Models.Report
 {
-    public class Metric
+    public class AggregateMetric
     {
         public float average;
         public int count;
